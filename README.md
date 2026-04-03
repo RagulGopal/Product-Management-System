@@ -231,10 +231,4 @@ All errors return structured JSON:
 
 ---
 
-## 📄 License
-
-This project is licensed under the **ISC License**.
-
----
-
 **Built with ❤️ using React, Express, Prisma, and PostgreSQL.**
