@@ -3,7 +3,7 @@
 A full-stack **Product Management System** built with modern technologies. Features JWT-based authentication, full CRUD operations on products scoped per user, and a polished responsive UI.
 
 
-![image alt](https://github.com/RagulGopal/Product-Management-System/blob/main/Screenshot%202026-04-03%20093427.png?raw=true)
+![image alt](https://github.com/RagulGopal/Product-Management-System/blob/main/Screenshot%202026-04-03%20093653.png?raw=true)
 
 ![image alt](https://github.com/RagulGopal/Product-Management-System/blob/main/Screenshot%202026-04-03%20093952.png?raw=true)
 
