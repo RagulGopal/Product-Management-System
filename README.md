@@ -9,6 +9,8 @@ A full-stack **Product Management System** built with modern technologies. Featu
 
 ![image alt](https://github.com/RagulGopal/Product-Management-System/blob/main/Screenshot%202026-04-03%20094120.png?raw=true)
 
+![image alt](https://github.com/RagulGopal/Product-Management-System/blob/main/Screenshot%202026-04-03%20094142.png?raw=true)
+
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
